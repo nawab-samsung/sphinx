@@ -153,6 +153,11 @@ Battery Historian takes a few seconds to analyze the data in both the files. A c
 <Kindly insert a images that have appropriate data>
 
 
+Original: 
+Tizen is built to work on a wide variety of platforms with a focus on embedded devices. In order to accommodate various types of devices, a set of profiles has been defined to make it easier to develop applications for specific purposes and device types. Since Tizen 3.0, it has traditionally supported 3 profile types: mobile, wearable, and TV. From Tizen 5.0, IoT is newly added to the list of profiles you can choose from. The mobile profile is designed for smart phones, the wearable profile is designed for smart watches, the TV profile is designed for smart TVs, and the IoT profile is desinged for IoT-based smart devices. Both mobile and wearable profiles are supported in native, Web and .NET application types. The TV profile is supported in Web and .NET application types, whereas the IoT profile is supported in native and .NET application types.
 
-Tizen is built to work on a wide variety of platforms with a focus on embedded devices. To accommodate various types of devices, Tizen offers a set of profiles to make it easier to develop applications for specific purposes and different device types. Traditionally, Tizen 3.0 supported mobile, wearable, and TV profiles. From Tizen 5.0 onwards, with the addition of an IoT profile, you have more choice to select from a list of profiles. Tizen profiles with their corresponding device types are as **wearable** for smartwatches, **mobile** for phones, **TV** for TVs, and **IoT** for IoT-based smart devices.
+Rephrased:
+Tizen is built to work on a wide variety of platforms with a focus on embedded devices. To accommodate various types of devices, Tizen offers a set of profiles to make it easier to develop applications for specific purposes and different device types. Traditionally, Tizen 3.0 supported three profile types, such as mobile, wearable, and TV. From Tizen 5.0 and onwards, you have more choice to select from a list of profiles with the addition of an IoT profile. 
+Tizen profiles with their corresponding device types are as **wearable** for smartwatches, **mobile** for phones, **TV** for TVs, and **IoT** for IoT-based smart devices. Both mobile and wearable profiles are supported in native, Web, and .NET application types. The TV profile is supported in Web and .NET application types, whereas the IoT profile is supported in native and .NET application types.
+
 
