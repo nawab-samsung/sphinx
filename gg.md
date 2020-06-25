@@ -152,3 +152,7 @@ Battery Historian takes a few seconds to analyze the data in both the files. A c
 
 <Kindly insert a images that have appropriate data>
 
+
+
+Tizen is built to work on a wide variety of platforms with a focus on embedded devices. To accommodate various types of devices, Tizen offers a set of profiles to make it easier to develop applications for specific purposes and different device types. Traditionally, Tizen 3.0 supported mobile, wearable, and TV profiles. From Tizen 5.0 onwards, with the addition of an IoT profile, you have more choice to select from a list of profiles. Tizen profiles with their corresponding device types are as **wearable** for smartwatches, **mobile** for phones, **TV** for TVs, and **IoT** for IoT-based smart devices.
+
