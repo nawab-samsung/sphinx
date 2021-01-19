@@ -1,1 +1,3 @@
-IDE does not allow desinging of background images or icons. You can design your own graphics and then use the graphics in your applications.
+
+> [!NOTE]
+> - It is highly recommended to use the latest version of Tizen Studio. Since Tizen Studio 3.7, JAVA is bundled with Tizen Studio install file. The following procedure is only  applicable to Tizen Studio 3.6 or lower. 
