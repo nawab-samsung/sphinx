@@ -1,3 +1,4 @@
+https://docs.tizen.org/application/web/guides/tau/tau-rotary/
 # Frequently Asked Questions 
 
 This page answers to the most commonly asked questions or errors that you may encounter while installing Tizen studio and developing apps in Tizen Studio.
