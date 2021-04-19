@@ -4,3 +4,7 @@
 
 
 https://github.com/Samsung/tizen-docs/pull/1387#discussion_r611242429
+
+https://github.com/Samsung/tizen-docs/pull/1387#discussion_r611243159
+
+
